@@ -1,22 +1,25 @@
 head {
   text-align: center;
-  background-color: black;
+  background-color: darkgray;
 }
 
 h1 {
   font-family: "Georgia", serif;
   color: darkgreen;
   text-align: center;
+  background-color: darkgray;
 }
 
 h2 {
   text-align: center;
+  background-color: darkgray;
 }  
 
 h3 {
   font-family: "Georgia", serif;
   color: darkgreen;
   text-align: center;
+  background-color: darkgray;
 }
 
 h4 {
