@@ -1,6 +1,7 @@
 head {
   text-align: center;
   background-image: url("https://edsurge.imgix.net/uploads/post/image/11914/teaching-1552092162.jpg?auto=compress%2Cformat&w=2000&h=810&fit=crop");
+  background-size: cover;
 }
 
 h1 {
