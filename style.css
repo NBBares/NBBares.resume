@@ -1,11 +1,16 @@
 head {
-  text -align: center;
+  text-align: center;
 }
 
 h1 {
   font-family: "Georgia", serif;
   color: blue;
+  text-align: center;
 }
+
+h2 {
+  text-align: center;
+}  
 
 h3 {
   font-family: "Georgia", serif;
